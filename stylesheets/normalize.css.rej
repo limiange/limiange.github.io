@@ -1,0 +1,11 @@
+diff a/stylesheets/normalize.css b/stylesheets/normalize.css	(rejected hunks)
+@@ -11,6 +11,9 @@
+   -ms-text-size-adjust: 100%; /* 2 */
+   -webkit-text-size-adjust: 100%; /* 2 */
+ }
++²âÊÔ{
++
++}
+ 
+ /**
+  * Remove default margin.
